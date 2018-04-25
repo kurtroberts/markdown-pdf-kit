@@ -1,0 +1,19 @@
+{
+  "name": "markdown-pdf-kit",
+  "version": "1.0.0",
+  "description": "A simple way to turn a lot of Markdown into consistent-looking PDF documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurtroberts/markdown-pdf-kit.git"
+  },
+  "author": "Kurt Roberts",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-markdown-pdf": "^6.0.0"
+  }
+}
